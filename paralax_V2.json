@@ -3,13 +3,13 @@
     {
        "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "admobe",
-      "main_ads_intertitial":"admobe",
-      "main_ads_natives":"admobe",
-      "backup_ads_natives":"applovin",
-      "backup_ads_banner":"applovin",
-      "backup_ads_intertitial":"applovin",
-      "open_ads_admob":"admobe",
+      "main_ads_banner": "ca-app-pub-2631643370199907/5986496954",
+      "main_ads_intertitial":"ca-app-pub-2631643370199907/9734170272",
+      "main_ads_natives":"ca-app-pub-2631643370199907/4471403562",
+      "backup_ads_natives":"2fcfaaf356dded46",
+      "backup_ads_banner":"adbfcc413766662f",
+      "backup_ads_intertitial":"252de3521985a3ab",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -30,709 +30,709 @@
   "Categories": [
     {
       "name_category": "1",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/9f/e0/6c9fe016b094b0e370328790dbbc1a5b.jpg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
       "name_category": "1",
-      "wallpaper_name": "Image 1",
+      "wallpaper_name": "My Genshin 1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/9f/e0/6c9fe016b094b0e370328790dbbc1a5b.jpg"
     },
 	{
       "id": 2,
       "name_category": "1",
-      "wallpaper_name": "Image 2",
+      "wallpaper_name": "My Genshin 2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/10/1e/6c101ebf9cbdcbbc419dda889bd4f2e1.jpg"
     },
 	{
       "id": 3,
       "name_category": "1",
-      "wallpaper_name": "Image 3",
+      "wallpaper_name": "My Genshin 3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ea/98/79/ea98794051963efda7e2d5482e014f93.jpg"
     },
 	{
       "id": 4,
       "name_category": "1",
-      "wallpaper_name": "Image 4",
+      "wallpaper_name": "My Genshin 4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/15/20/53/152053a6c324931e42fab6b05213dc77.jpg"
     },
 	{
       "id": 5,
       "name_category": "1",
-      "wallpaper_name": "Image 5",
+      "wallpaper_name": "My Genshin 5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/be/69/d0be69ece668baa0705fa13e87a99111.jpg"
     },
 	{
       "id": 6,
       "name_category": "1",
-      "wallpaper_name": "Image 6",
+      "wallpaper_name": "My Genshin 6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/47/e9/8d/47e98d0e1d554c888b08d3dd5fc784fa.jpg"
     },
 	{
       "id": 7,
       "name_category": "1",
-      "wallpaper_name": "Image 7",
+      "wallpaper_name": "My Genshin 7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/09/94/e9/0994e9bfdcf9a28cc30da908193080b4.jpg"
     },
 	{
       "id": 8,
       "name_category": "1",
-      "wallpaper_name": "Image 8",
+      "wallpaper_name": "My Genshin 8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/59/cf/ff/59cfff0b09a6f99d01be985f3a184561.jpg"
     },
 	{
       "id": 9,
       "name_category": "1",
-      "wallpaper_name": "Image 9",
+      "wallpaper_name": "My Genshin 9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/00/fe/8b/00fe8b3b0ca8acfc39c6a03d5ae0a973.jpg"
     },
 	{
       "id": 10,
       "name_category": "1",
-      "wallpaper_name": "Image 10",
+      "wallpaper_name": "My Genshin 10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/4d/73/0b/4d730b520fa709574460488619c1d80a.jpg"
     },
 	{
       "id": 11,
       "name_category": "1",
-      "wallpaper_name": "Image 11",
+      "wallpaper_name": "My Genshin 11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ba/c4/46/bac4461aa9fd5dcf915ac4f3b59c2618.jpg"
     },
 	{
       "id": 12,
       "name_category": "1",
-      "wallpaper_name": "Image 12",
+      "wallpaper_name": "My Genshin 12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/72/eb/d172eba015492f27b4df070f19f86f99.jpg"
     },
 	{
       "id": 13,
       "name_category": "1",
-      "wallpaper_name": "Image 13",
+      "wallpaper_name": "My Genshin 13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/41/93/fe/4193fefef77acc558d126bdd082e2468.jpg"
     },
 	{
       "id": 14,
       "name_category": "1",
-      "wallpaper_name": "Image 14",
+      "wallpaper_name": "My Genshin 14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/9d/f2/fa/9df2fa7346352773feea69cb7bafef32.jpg"
     },
 	{
       "id": 15,
       "name_category": "1",
-      "wallpaper_name": "Image 15",
+      "wallpaper_name": "My Genshin 15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/4d/fd/d54dfd05c85ef224a7f1718c391275c2.jpg"
     },
 	{
       "id": 16,
       "name_category": "1",
-      "wallpaper_name": "Image 16",
+      "wallpaper_name": "My Genshin 16",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/3a/e0/fd3ae0dc380da5e6252cf4fb2dc0c856.jpg"
     },
 	{
       "id": 17,
       "name_category": "1",
-      "wallpaper_name": "Image 17",
+      "wallpaper_name": "My Genshin 17",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/8a/61/b78a61247e4a1dc60d73f2c3b6829401.jpg"
     },
 	{
       "id": 18,
       "name_category": "1",
-      "wallpaper_name": "Image 18",
+      "wallpaper_name": "My Genshin 18",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/49/7f/7f/497f7fa352ed4207da304ef247610eb7.jpg"
     },
 	{
       "id": 19,
       "name_category": "1",
-      "wallpaper_name": "Image 19",
+      "wallpaper_name": "My Genshin 19",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/50/32/85/503285d9bf100bf80a8a4a58367604e3.jpg"
     },
 	{
       "id": 20,
       "name_category": "1",
-      "wallpaper_name": "Image 20",
+      "wallpaper_name": "My Genshin 20",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/77/3e/d2773eb54120bded43f288fc84e665f4.jpg"
     },
 	{
       "id": 21,
       "name_category": "1",
-      "wallpaper_name": "Image 21",
+      "wallpaper_name": "My Genshin 21",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/9b/28/fd9b282e0661c599adf68fee3c95fdb6.jpg"
     },
 	{
       "id": 22,
       "name_category": "1",
-      "wallpaper_name": "Image 22",
+      "wallpaper_name": "My Genshin 22",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/41/61/8c41611387850ed9491d5c46e3ca0150.jpg"
     },
 	{
       "id": 23,
       "name_category": "1",
-      "wallpaper_name": "Image 23",
+      "wallpaper_name": "My Genshin 23",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/7d/e5/f27de5c569f178c5ba6d2e5ff302d1a5.jpg"
     },
 	{
       "id": 24,
       "name_category": "1",
-      "wallpaper_name": "Image 24",
+      "wallpaper_name": "My Genshin 24",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/2f/ce/2c2fce853c35a44232c71f4162442ca8.jpg"
     },
 	{
       "id": 25,
       "name_category": "1",
-      "wallpaper_name": "Image 25",
+      "wallpaper_name": "My Genshin 25",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/49/ba/e0/49bae0a61fccd4d803ca515733eb5fcb.jpg"
     },
 	{
       "id": 26,
       "name_category": "1",
-      "wallpaper_name": "Image 26",
+      "wallpaper_name": "My Genshin 26",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/47/47/96/4747962b909dd9129c9362d0718bde46.jpg"
     },
 	{
       "id": 27,
       "name_category": "1",
-      "wallpaper_name": "Image 27",
+      "wallpaper_name": "My Genshin 27",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/94/aa/dc94aafefd169de671800fc5235ea565.jpg"
     },
 	{
       "id": 28,
       "name_category": "1",
-      "wallpaper_name": "Image 28",
+      "wallpaper_name": "My Genshin 28",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/4d/11/ef/4d11ef2af8daf35dd8295185c2cf0911.jpg"
     },
 	{
       "id": 29,
       "name_category": "1",
-      "wallpaper_name": "Image 29",
+      "wallpaper_name": "My Genshin 29",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/9e/aa/4c9eaa7afcd8ec2a538204e877e76845.jpg"
     },
 	{
       "id": 30,
       "name_category": "1",
-      "wallpaper_name": "Image 30",
+      "wallpaper_name": "My Genshin 30",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/50/32/85/503285d9bf100bf80a8a4a58367604e3.jpg"
     },
 	{
       "id": 31,
       "name_category": "1",
-      "wallpaper_name": "Image 31",
+      "wallpaper_name": "My Genshin 31",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/b3/a6/a2b3a62291f1198c4d291944f36d2c38.jpg"
     },
 	{
       "id": 32,
       "name_category": "1",
-      "wallpaper_name": "Image 32",
+      "wallpaper_name": "My Genshin 32",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/5b/c6/7a5bc6f2030575aa09f33809a9494901.jpg"
     },
 	{
       "id": 33,
       "name_category": "1",
-      "wallpaper_name": "Image 33",
+      "wallpaper_name": "My Genshin 33",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/52/7f/9e/527f9eb833c404d295b05ca153b1acc5.jpg"
     },
 	{
       "id": 34,
       "name_category": "1",
-      "wallpaper_name": "Image 34",
+      "wallpaper_name": "My Genshin 34",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/f0/69/cbf0699252e1e9258ac98f130ab11be8.jpg"
     },
 	{
       "id": 35,
       "name_category": "1",
-      "wallpaper_name": "Image 35",
+      "wallpaper_name": "My Genshin 35",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/3e/80/c5/3e80c534ffee12af616ac1bf9ba9c069.jpg"
     },
 	{
       "id": 36,
       "name_category": "1",
-      "wallpaper_name": "Image 36",
+      "wallpaper_name": "My Genshin 36",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/02/33/da/0233da44b5c2cb74c501e5603669738f.jpg"
     },
 	{
       "id": 37,
       "name_category": "1",
-      "wallpaper_name": "Image 37",
+      "wallpaper_name": "My Genshin 37",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a4/9b/4d/a49b4dc1772740d50af42db545a2d738.jpg"
     },
 	{
       "id": 38,
       "name_category": "1",
-      "wallpaper_name": "Image 38",
+      "wallpaper_name": "My Genshin 38",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/0c/24/93/0c249343b339039cc4c52ea1f668e7c0.jpg"
     },
 	{
       "id": 39,
       "name_category": "1",
-      "wallpaper_name": "Image 39",
+      "wallpaper_name": "My Genshin 39",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/65/54/9c655480a187df5ebd1dae0e37418a79.jpg"
     },
 	{
       "id": 40,
       "name_category": "1",
-      "wallpaper_name": "Image 40",
+      "wallpaper_name": "My Genshin 40",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/23/86/d9/2386d9272119cc7ea37c55b51f3ef2ec.jpg"
     },
 	{
       "id": 41,
       "name_category": "1",
-      "wallpaper_name": "Image 41",
+      "wallpaper_name": "My Genshin 41",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/17/98/21/17982103898728dccd9bf3a25895400a.jpg"
     },
 	{
       "id": 42,
       "name_category": "1",
-      "wallpaper_name": "Image 42",
+      "wallpaper_name": "My Genshin 42",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/c9/43/c4c9437db32bb646c52cdd5ed6818118.jpg"
     },
 	{
       "id": 43,
       "name_category": "1",
-      "wallpaper_name": "Image 43",
+      "wallpaper_name": "My Genshin 43",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/5c/2f/e9/5c2fe9dd3f1aaea41777a03dd939a54f.jpg"
     },
 	{
       "id": 44,
       "name_category": "1",
-      "wallpaper_name": "Image 44",
+      "wallpaper_name": "My Genshin 44",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/25/19/d1251907e34de235abf914be84562277.jpg"
     },
 	{
       "id": 45,
       "name_category": "1",
-      "wallpaper_name": "Image 45",
+      "wallpaper_name": "My Genshin 45",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/71/50/a1/7150a1813c9e2acddc30ee31b7a2d492.jpg"
     },
 	{
       "id": 46,
       "name_category": "1",
-      "wallpaper_name": "Image 46",
+      "wallpaper_name": "My Genshin 46",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/64/67/8c64674649e9f76b1dd1551580c0ceaa.jpg"
     },
 	{
       "id": 47,
       "name_category": "1",
-      "wallpaper_name": "Image 47",
+      "wallpaper_name": "My Genshin 47",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/0e/cf/5f0ecf5f7beaa197dd343599dbeb76d4.jpg"
     },
 	{
       "id": 48,
       "name_category": "1",
-      "wallpaper_name": "Image 48",
+      "wallpaper_name": "My Genshin 48",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d4/b6/d0/d4b6d03ea19e1c431ff32f8439c2699c.jpg"
     },
 	{
       "id": 49,
       "name_category": "1",
-      "wallpaper_name": "Image 49",
+      "wallpaper_name": "My Genshin 49",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/bb/38/d8bb38f447213a69262c3fc46cc6f664.jpg"
     },
 	{
       "id": 50,
       "name_category": "1",
-      "wallpaper_name": "Image 50",
+      "wallpaper_name": "My Genshin 50",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/5a/e0/ec5ae06f2ac46b0d44622bd2a23a3a73.jpg"
     },
 	{
       "id": 51,
       "name_category": "1",
-      "wallpaper_name": "Image 51",
+      "wallpaper_name": "My Genshin 51",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/66/02/f36602a36575698fb73b59d4066fde8b.jpg"
     },
 	{
       "id": 52,
       "name_category": "1",
-      "wallpaper_name": "Image 52",
+      "wallpaper_name": "My Genshin 52",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/3d/c7/da/3dc7dabab150ab2fc8ac3eafeec0318d.jpg"
     },
 	{
       "id": 53,
       "name_category": "1",
-      "wallpaper_name": "Image 53",
+      "wallpaper_name": "My Genshin 53",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ea/44/cc/ea44ccf494253692b572e78ee12f81b6.jpg"
     },
 	{
       "id": 54,
       "name_category": "1",
-      "wallpaper_name": "Image 54",
+      "wallpaper_name": "My Genshin 54",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fa/2f/07/fa2f076f93fb7ae306468168b3e06009.jpg"
     },
 	{
       "id": 55,
       "name_category": "1",
-      "wallpaper_name": "Image 55",
+      "wallpaper_name": "My Genshin 55",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/31/6d/7d/316d7daa9cc1db4ab354b9bbd9d83efc.jpg"
     },
 	{
       "id": 56,
       "name_category": "1",
-      "wallpaper_name": "Image 56",
+      "wallpaper_name": "My Genshin 56",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/37/a1/e5/37a1e5b6cb1a90a3f0bdf0630dbc7664.jpg"
     },
 	{
       "id": 57,
       "name_category": "1",
-      "wallpaper_name": "Image 57",
+      "wallpaper_name": "My Genshin 57",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/8a/a1/0b/8aa10bda779dfea08210e1d0dfc0da8f.jpg"
     },
 	{
       "id": 58,
       "name_category": "1",
-      "wallpaper_name": "Image 58",
+      "wallpaper_name": "My Genshin 58",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/02/9c/ee029c15ee50ee41cf193d334e22bcfd.jpg"
     },
 	{
       "id": 59,
       "name_category": "1",
-      "wallpaper_name": "Image 59",
+      "wallpaper_name": "My Genshin 59",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/11/58/3b/11583b11cb9ae73b2c91cbbd608fcec2.jpg"
     },
 	{
       "id": 60,
       "name_category": "1",
-      "wallpaper_name": "Image 60",
+      "wallpaper_name": "My Genshin 60",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/60/4f/fa/604ffa24c02a764acf4e6cbc4c2a51f3.jpg"
     },
 	{
       "id": 61,
       "name_category": "1",
-      "wallpaper_name": "Image 61",
+      "wallpaper_name": "My Genshin 61",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/67/b9/40/67b9405f79e6231cb09578c63b8725a4.jpg"
     },
 	{
       "id": 62,
       "name_category": "1",
-      "wallpaper_name": "Image 62",
+      "wallpaper_name": "My Genshin 62",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/f0/73/2cf07304477e9452d9963cdca63593a4.jpg"
     },
 	{
       "id": 63,
       "name_category": "1",
-      "wallpaper_name": "Image 63",
+      "wallpaper_name": "My Genshin 63",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/84/bd/6e84bdfa307b5373d9bda9864e0dff75.jpg"
     },
 	{
       "id": 64,
       "name_category": "1",
-      "wallpaper_name": "Image 64",
+      "wallpaper_name": "My Genshin 64",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/da/2b/bdda2ba2fc3b95ba6530699222cc2c0b.jpg"
     },
 	{
       "id": 65,
       "name_category": "1",
-      "wallpaper_name": "Image 65",
+      "wallpaper_name": "My Genshin 65",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ba/e3/00/bae300768932935c6df3da304269f4a4.jpg"
     },
 	{
       "id": 66,
       "name_category": "1",
-      "wallpaper_name": "Image 66",
+      "wallpaper_name": "My Genshin 66",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/49/6b/73/496b73249c06ce338d1f4e255b8e01db.jpg"
     },
 	{
       "id": 67,
       "name_category": "1",
-      "wallpaper_name": "Image 67",
+      "wallpaper_name": "My Genshin 67",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/00/b8/51/00b8519c007879e721316bd53c7feaa7.jpg"
     },
 	{
       "id": 68,
       "name_category": "1",
-      "wallpaper_name": "Image 68",
+      "wallpaper_name": "My Genshin 68",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/06/8e/07/068e07e86e46636773a69b206b1f047c.jpg"
     },
 	{
       "id": 69,
       "name_category": "1",
-      "wallpaper_name": "Image 69",
+      "wallpaper_name": "My Genshin 69",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/53/d5/6d53d5e6b47eba2e7d8de76ce300e108.jpg"
     },
 	{
       "id": 70,
       "name_category": "1",
-      "wallpaper_name": "Image 70",
+      "wallpaper_name": "My Genshin 70",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/48/fc/52/48fc5244ba4d433f5c05e42ec90b7fa3.jpg"
     },
 	{
       "id": 71,
       "name_category": "1",
-      "wallpaper_name": "Image 71",
+      "wallpaper_name": "My Genshin 71",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/66/e6/e366e62bce8bf70b7cc168411328b0e7.jpg"
     },
 	{
       "id": 72,
       "name_category": "1",
-      "wallpaper_name": "Image 72",
+      "wallpaper_name": "My Genshin 72",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e7/0c/60/e70c6072c27a69f3758462ebe5314f65.jpg"
     },
 	{
       "id": 73,
       "name_category": "1",
-      "wallpaper_name": "Image 73",
+      "wallpaper_name": "My Genshin 73",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/cc/88/f6cc889a09ccdfcae77846a958f0d1e3.jpg"
     },
 	{
       "id": 74,
       "name_category": "1",
-      "wallpaper_name": "Image 74",
+      "wallpaper_name": "My Genshin 74",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/98/71/37/9871375b2652f8392320541ff23c46c8.jpg"
     },
 	{
       "id": 75,
       "name_category": "1",
-      "wallpaper_name": "Image 75",
+      "wallpaper_name": "My Genshin 75",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/29/fe/65/29fe65626f71ea99ae63e5290b1563a1.jpg"
     },
 	{
       "id": 76,
       "name_category": "1",
-      "wallpaper_name": "Image 76",
+      "wallpaper_name": "My Genshin 76",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/59/13/fa/5913fa4983d1c0791a0191e95c2521eb.jpg"
     },
 	{
       "id": 77,
       "name_category": "1",
-      "wallpaper_name": "Image 77",
+      "wallpaper_name": "My Genshin 77",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/c5/c1/1cc5c1eed262c4bd92cd61446bcf9516.jpg"
     },
 	{
       "id": 78,
       "name_category": "1",
-      "wallpaper_name": "Image 78",
+      "wallpaper_name": "My Genshin 78",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/5e/59/0a/5e590a16b959af7102a4326a17148b1f.jpg"
     },
 	{
       "id": 79,
       "name_category": "1",
-      "wallpaper_name": "Image 79",
+      "wallpaper_name": "My Genshin 79",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/63/42/82/634282f525e963f31572b5a347722f97.jpg"
     },
 	{
       "id": 80,
       "name_category": "1",
-      "wallpaper_name": "Image 80",
+      "wallpaper_name": "My Genshin 80",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a9/e4/a9/a9e4a99a35dff03e721444267570d311.jpg"
     },
 	{
       "id": 81,
       "name_category": "1",
-      "wallpaper_name": "Image 81",
+      "wallpaper_name": "My Genshin 81",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/94/ee/4b/94ee4b906715fcf65c31cafe7e55012c.jpg"
     },
 	{
       "id": 82,
       "name_category": "1",
-      "wallpaper_name": "Image 82",
+      "wallpaper_name": "My Genshin 82",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a3/93/32/a3933220160e03a07641ae3b826b61f7.jpg"
     },
 	{
       "id": 83,
       "name_category": "1",
-      "wallpaper_name": "Image 83",
+      "wallpaper_name": "My Genshin 83",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/6c/88/e86c887e58dba2e8fafa84009dd62a66.jpg"
     },
 	{
       "id": 84,
       "name_category": "1",
-      "wallpaper_name": "Image 84",
+      "wallpaper_name": "My Genshin 84",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/03/e1/12/03e112dee1a952324415f026d44d1802.jpg"
     },
 	{
       "id": 85,
       "name_category": "1",
-      "wallpaper_name": "Image 85",
+      "wallpaper_name": "My Genshin 85",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/68/da/f668da98c25a18af435ad0e06c83219c.jpg"
     },
 	{
       "id": 86,
       "name_category": "1",
-      "wallpaper_name": "Image 86",
+      "wallpaper_name": "My Genshin 86",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b9/45/ee/b945ee0671d90c432a26d7777491b332.jpg"
     },
 	{
       "id": 87,
       "name_category": "1",
-      "wallpaper_name": "Image 87",
+      "wallpaper_name": "My Genshin 87",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/6f/6b/3f6f6b6fd6d2548c690d6652d8f27139.jpg"
     },
 	{
       "id": 88,
       "name_category": "1",
-      "wallpaper_name": "Image 88",
+      "wallpaper_name": "My Genshin 88",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/58/f9/32/58f9326c2c646e10a67540c893eb21dd.jpg"
     },
 	{
       "id": 89,
       "name_category": "1",
-      "wallpaper_name": "Image 89",
+      "wallpaper_name": "My Genshin 89",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/79/39/6e/79396e87d276fec842c76596552a2e9e.jpg"
     },
 	{
       "id": 90,
       "name_category": "1",
-      "wallpaper_name": "Image 90",
+      "wallpaper_name": "My Genshin 90",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a7/2a/da/a72adad59da8665c9724c3cb517f42a4.jpg"
     },
 	{
       "id": 91,
       "name_category": "1",
-      "wallpaper_name": "Image 91",
+      "wallpaper_name": "My Genshin 91",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e0/fb/70/e0fb70e6e9771d33c7dcefbb9f41f98d.jpg"
     },
 	{
       "id": 92,
       "name_category": "1",
-      "wallpaper_name": "Image 92",
+      "wallpaper_name": "My Genshin 92",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/90/7c/7e/907c7e444e57b1087c21f16c94912dfb.jpg"
     },
 	{
       "id": 93,
       "name_category": "1",
-      "wallpaper_name": "Image 93",
+      "wallpaper_name": "My Genshin 93",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/e8/0b/07/e80b0740cfbda8cc8d7aaf548e59fc0e.jpg"
     },
 	{
       "id": 94,
       "name_category": "1",
-      "wallpaper_name": "Image 94",
+      "wallpaper_name": "My Genshin 94",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/a1/8b/2e/a18b2e7febe3ff1e64914fd70e9771c3.jpg"
     },
 	{
       "id": 95,
       "name_category": "1",
-      "wallpaper_name": "Image 95",
+      "wallpaper_name": "My Genshin 95",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/48/e9/0b/48e90bb36476ac9b4c5f6239ec02aef9.jpg"
     },
 	{
       "id": 96,
       "name_category": "1",
-      "wallpaper_name": "Image 96",
+      "wallpaper_name": "My Genshin 96",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/8d/8e/13/8d8e136d97c09fed3505eddd8cb74c4a.jpg"
     },
 	{
       "id": 97,
       "name_category": "1",
-      "wallpaper_name": "Image 97",
+      "wallpaper_name": "My Genshin 97",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/5e/67/e2/5e67e2174ac7a8ea6e8c5119283c82fb.jpg"
     },
 	{
       "id": 98,
       "name_category": "1",
-      "wallpaper_name": "Image 98",
+      "wallpaper_name": "My Genshin 98",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/30/01/2a3001d9efaa9bdb995ffc550a75b394.jpg"
     },
 	{
       "id": 99,
       "name_category": "1",
-      "wallpaper_name": "Image 99",
+      "wallpaper_name": "My Genshin 99",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fb/7c/db/fb7cdbb4f717b8995c0271c5eaa3166d.jpg"
     },
 	{
       "id": 100,
       "name_category": "1",
-      "wallpaper_name": "Image 100",
+      "wallpaper_name": "My Genshin 100",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/81/be/ca81be0445859d2f101509efc49dcb5a.jpg"
     }
     
   ]
